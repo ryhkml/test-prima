@@ -1,0 +1,13 @@
+{
+    "[rust]": {
+        "editor.tabSize": 4
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "*.mutable": {
+                "underline": false,
+            }
+        }
+    }
+}
